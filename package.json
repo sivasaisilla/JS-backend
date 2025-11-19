@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/sivasaisilla/JS-backend#readme",
   "devDependencies": {
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "prettier": "^3.6.2"
   }
 }
